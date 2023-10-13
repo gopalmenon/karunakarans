@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.9)  12 OCT 2023 20:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.9)  12 OCT 2023 20:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -651,6 +651,11 @@ File: ./images/topdog.jpeg Graphic file (type jpg)
 Package pdftex.def Info: ./images/topdog.jpeg  used on input line 99.
 (pdftex.def)             Requested size: 55.40685pt x 79.9786pt.
 \gtr@pbox=\box93
+<./images/lakshmiamma.jpeg, id=5, 378.41376pt x 338.26375pt>
+File: ./images/lakshmiamma.jpeg Graphic file (type jpg)
+<use ./images/lakshmiamma.jpeg>
+Package pdftex.def Info: ./images/lakshmiamma.jpeg  used on input line 99.
+(pdftex.def)             Requested size: 378.41283pt x 338.26291pt.
 \gtr@pbox=\box94
 \gtr@pbox=\box95
 \gtr@pbox=\box96
@@ -689,24 +694,24 @@ Package pdftex.def Info: ./images/topdog.jpeg  used on input line 99.
 
 
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./image
-s/topdog.jpeg>] (./tree.aux) ) 
+s/topdog.jpeg> <./images/lakshmiamma.jpeg>] (./tree.aux) ) 
 Here is how much of TeX's memory you used:
- 21120 strings out of 476025
- 482124 string characters out of 5790017
+ 21128 strings out of 476025
+ 482348 string characters out of 5790017
  1952388 words of memory out of 5000000
- 41258 multiletter control sequences out of 15000+600000
+ 41265 multiletter control sequences out of 15000+600000
  517112 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  115i,9n,118p,478b,2117s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmbx7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmti7.pfb>
-Output written on tree.pdf (1 page, 114083 bytes).
+</usr/local/texlive/2
+023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/local/texlive/202
+3/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/20
+23/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2023/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmti7.pfb>
+Output written on tree.pdf (1 page, 216317 bytes).
 PDF statistics:
- 32 PDF objects out of 1000 (max. 8388607)
+ 33 PDF objects out of 1000 (max. 8388607)
  19 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 18 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
