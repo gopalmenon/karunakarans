@@ -1,0 +1,45 @@
+\documentclass{article}
+\usepackage[a3paper]{geometry}
+\usepackage[all]{genealogytree}
+\usepackage{pdflscape}
+\thispagestyle{empty}
+\begin{document}
+\begin{landscape}
+\begin{genealogypicture}[
+processing=database,
+database format=medium marriage below,
+node size=2.4cm,
+level size=3.5cm,
+level distance=6mm,
+list separators hang,
+name font=\bfseries,
+surn code={\textcolor{red!50!black}{#1}},
+place text={\newline}{},
+date format=d/mon/yyyy,
+tcbset={male/.style={colframe=blue,colback=blue!5},
+female/.style={colframe=red,colback=red!5}},
+box={fit basedim=7pt,boxsep=2pt,segmentation style=solid,
+halign=left,before upper=\parskip1pt,
+\gtrDBsex,drop fuzzy shadow,
+if image defined={add to width=25mm,right=25mm,
+underlay={\begin{tcbclipinterior}\path[fill overzoom DBimage]
+([xshift=-24mm]interior.south east) rectangle (interior.north east);
+\end{tcbclipinterior}},
+}{},
+},
+]
+
+sandclock {
+	child {
+   		g [male]  {name={\pref{P} Karunakara \surn{Menon}},  image={./images/topdog.jpeg}}
+   		p[female] {name={Lakshmi Amma}, comment={Chachi Amma}}
+   		child {
+   			g[male]{name={Karunakara \surn{Menon}}}
+   			p[female]{name={Kalyani}}
+		}
+	}
+}
+
+\end{genealogypicture}
+\end{landscape}
+\end{document}

@@ -1,0 +1,102 @@
+\documentclass{article}
+\usepackage[a1paper]{geometry}
+\usepackage[all]{genealogytree}
+\usepackage{pdflscape}
+\thispagestyle{empty}
+\begin{document}
+\begin{landscape}
+\begin{genealogypicture} [
+processing=database,
+database format=medium marriage below,
+node size=2.4cm,
+level size=3.5cm,
+level distance=6mm,
+list separators hang,
+name font=\bfseries,
+surn code={\textcolor{red!50!black}{#1}},
+place text={\newline}{},
+date format=d/mon/yyyy,
+tcbset={male/.style={colframe=blue,colback=blue!5},
+female/.style={colframe=red,colback=red!5}},
+box={fit basedim=7pt,boxsep=2pt,segmentation style=solid,
+halign=left,before upper=\parskip1pt,
+\gtrDBsex,drop fuzzy shadow,
+if image defined={add to width=25mm,right=25mm,
+underlay={\begin{tcbclipinterior}\path[fill overzoom DBimage]
+([xshift=-24mm]interior.south east) rectangle (interior.north east);
+\end{tcbclipinterior}},
+}{},
+},
+]
+
+sandclock {
+	child {
+  		g [male]  {name={\pref{P} Karunakara \surn{Menon}}, image={./images/topdog.jpeg}}
+  		p[female]{name={Lakshmi Amma}, comment={Chachi Amma}}
+  		child {
+  			 g[male]{name=Karunakara \surn{Menon}}
+   			p[female]{name={Kalyani}}
+   			child {
+    				g [male] {name=Karunakara \surn{Menon}}
+    				p [female] {name=Lakshmikutty \surn{Menon}}
+				c {name=Pullonath Clan}
+   			}
+  		}
+  		child {
+   			g[female]{name={Kunhilakshmi \surn{Menon}}}
+   			p[male]{name={Raman \surn{Menon}}}
+   			child {
+    				g [male] {name=Balakrishnan \surn{Menon}}
+    				p [female] {name=Ammu}
+				c {name=Mullasseri Clan}
+   			}
+			child {
+    				g [female] {name=Lakshmikutty \surn{Menon}}
+				p [male] {name=Karunakara \surn{Menon}}
+				c {name=Pullonath Clan}
+   			}
+
+			child {
+    				g [female] {name=Karunakara \surn{Menon}}
+				p [male] {name=Kalyani}
+				c {name=Manari Clan}
+   			}
+  		}
+  		child {
+   			g [female]{name={Narayani \surn{Menon}}}
+   			p [male] {name={Sankunny \surn{Menon}}}
+			c {name=Kannanthara Clan}
+  		}
+  		child {
+   			g [male]{name={\pref{V} Govinda \surn{Menon}}}
+   			p[female] {name={\pref{P} Kunhilakshmi Amma}}
+			child {
+   				g [male]{name=Kalyani}
+   				p[female] {name=CR Karunakaran}
+  			}
+			c[male]{name=Gopi}
+			child {
+   				g [male]{name=Karunakaran}
+   				p[female] {name=Devi}
+  			}
+			child {
+   				g [male]{name=Gopal}
+   				p[female] {name=Rohini}
+  			}
+			c[male]{name=Balakrishnan}
+			child {
+   				g [female]{name=Nanikutty}
+   				p[male] {name=Govindankutty}
+  			}
+			child {
+   				g [male]{name=Gopinath}
+   				p[female] {name=Susheela}
+  			}
+  		}
+	}
+}
+
+\end{genealogypicture}
+
+\end{landscape}
+\end{document}
