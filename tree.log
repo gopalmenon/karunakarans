@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.9)  12 OCT 2023 21:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.9)  13 OCT 2023 12:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -592,19 +592,19 @@ LaTeX Font Info:    ... okay on input line 6.
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
 * driver: pdftex
-* paper: a1paper
+* paper: a0paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(253.51663pt, 1183.06041pt, 253.51665pt)
-* v-part:(T,H,B)=(287.14813pt, 1675.00642pt, 430.72221pt)
-* \paperwidth=1690.09369pt
-* \paperheight=2392.87677pt
-* \textwidth=1183.06041pt
-* \textheight=1675.00642pt
-* \oddsidemargin=181.24664pt
-* \evensidemargin=181.24664pt
-* \topmargin=177.87814pt
+* h-part:(L,W,R)=(358.93517pt, 1675.00642pt, 358.93518pt)
+* v-part:(T,H,B)=(405.96805pt, 2368.11253pt, 608.95209pt)
+* \paperwidth=2392.87677pt
+* \paperheight=3383.03267pt
+* \textwidth=1675.00642pt
+* \textheight=2368.11253pt
+* \oddsidemargin=286.66518pt
+* \evensidemargin=286.66518pt
+* \topmargin=296.69806pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -652,31 +652,89 @@ Package pdftex.def Info: ./images/topdog.jpeg  used on input line 99.
 (pdftex.def)             Requested size: 55.40685pt x 79.9786pt.
 \gtr@pbox=\box93
 \gtr@pbox=\box94
+<./images/karunakaran2.jpg, id=5, 797.98125pt x 1074.0125pt>
+File: ./images/karunakaran2.jpg Graphic file (type jpg)
+<use ./images/karunakaran2.jpg>
+Package pdftex.def Info: ./images/karunakaran2.jpg  used on input line 99.
+(pdftex.def)             Requested size: 797.9793pt x 1074.00987pt.
 \gtr@pbox=\box95
-<./images/kalyaniamma.jpeg, id=5, 378.41376pt x 338.26375pt>
-File: ./images/kalyaniamma.jpeg Graphic file (type jpg)
-<use ./images/kalyaniamma.jpeg>
-Package pdftex.def Info: ./images/kalyaniamma.jpeg  used on input line 99.
+<./images/kalyaniamma.jpg, id=6, 378.41376pt x 338.26375pt>
+File: ./images/kalyaniamma.jpg Graphic file (type jpg)
+<use ./images/kalyaniamma.jpg>
+Package pdftex.def Info: ./images/kalyaniamma.jpg  used on input line 99.
 (pdftex.def)             Requested size: 378.41283pt x 338.26291pt.
 \gtr@pbox=\box96
+<./images/achachan.jpg, id=7, 870.25125pt x 1093.08376pt>
+File: ./images/achachan.jpg Graphic file (type jpg)
+<use ./images/achachan.jpg>
+Package pdftex.def Info: ./images/achachan.jpg  used on input line 99.
+(pdftex.def)             Requested size: 870.24913pt x 1093.08109pt.
 \gtr@pbox=\box97
+<./images/achamma.jpg, id=8, 1174.3875pt x 1356.06625pt>
+File: ./images/achamma.jpg Graphic file (type jpg)
+<use ./images/achamma.jpg>
+Package pdftex.def Info: ./images/achamma.jpg  used on input line 99.
+(pdftex.def)             Requested size: 1174.38464pt x 1356.06294pt.
 \gtr@pbox=\box98
 \gtr@pbox=\box99
 \gtr@pbox=\box100
 \gtr@pbox=\box101
+<./images/balak.jpg, id=9, 1174.3875pt x 1518.67375pt>
+File: ./images/balak.jpg Graphic file (type jpg)
+<use ./images/balak.jpg>
+Package pdftex.def Info: ./images/balak.jpg  used on input line 99.
+(pdftex.def)             Requested size: 1174.38464pt x 1518.67004pt.
 \gtr@pbox=\box102
+<./images/ammu.jpg, id=10, 1174.3875pt x 1682.285pt>
+File: ./images/ammu.jpg Graphic file (type jpg)
+<use ./images/ammu.jpg>
+Package pdftex.def Info: ./images/ammu.jpg  used on input line 99.
+(pdftex.def)             Requested size: 1174.38464pt x 1682.28091pt.
 \gtr@pbox=\box103
 \gtr@pbox=\box104
+File: ./images/achamma.jpg Graphic file (type jpg)
+<use ./images/achamma.jpg>
+Package pdftex.def Info: ./images/achamma.jpg  used on input line 99.
+(pdftex.def)             Requested size: 1174.38464pt x 1356.06294pt.
 \gtr@pbox=\box105
+File: ./images/achachan.jpg Graphic file (type jpg)
+<use ./images/achachan.jpg>
+Package pdftex.def Info: ./images/achachan.jpg  used on input line 99.
+(pdftex.def)             Requested size: 870.24913pt x 1093.08109pt.
 \gtr@pbox=\box106
 \gtr@pbox=\box107
+<./images/kuttimama.jpg, id=11, 745.78625pt x 925.4575pt>
+File: ./images/kuttimama.jpg Graphic file (type jpg)
+<use ./images/kuttimama.jpg>
+Package pdftex.def Info: ./images/kuttimama.jpg  used on input line 99.
+(pdftex.def)             Requested size: 745.78444pt x 925.45525pt.
 \gtr@pbox=\box108
+<./images/kuttimayi.jpg, id=12, 782.925pt x 873.2625pt>
+File: ./images/kuttimayi.jpg Graphic file (type jpg)
+<use ./images/kuttimayi.jpg>
+Package pdftex.def Info: ./images/kuttimayi.jpg  used on input line 99.
+(pdftex.def)             Requested size: 782.9231pt x 873.26036pt.
 \gtr@pbox=\box109
 \gtr@pbox=\box110
+<./images/kvalliamma.jpg, id=13, 829.0975pt x 744.7825pt>
+File: ./images/kvalliamma.jpg Graphic file (type jpg)
+<use ./images/kvalliamma.jpg>
+Package pdftex.def Info: ./images/kvalliamma.jpg  used on input line 99.
+(pdftex.def)             Requested size: 829.09549pt x 744.78069pt.
 \gtr@pbox=\box111
 \gtr@pbox=\box112
 \gtr@pbox=\box113
+<./images/manarivammama.jpg, id=14, 564.1075pt x 664.4825pt>
+File: ./images/manarivammama.jpg Graphic file (type jpg)
+<use ./images/manarivammama.jpg>
+Package pdftex.def Info: ./images/manarivammama.jpg  used on input line 99.
+(pdftex.def)             Requested size: 564.10611pt x 664.48087pt.
 \gtr@pbox=\box114
+<./images/manarivammayi.jpg, id=15, 1066.98625pt x 1160.335pt>
+File: ./images/manarivammayi.jpg Graphic file (type jpg)
+<use ./images/manarivammayi.jpg>
+Package pdftex.def Info: ./images/manarivammayi.jpg  used on input line 99.
+(pdftex.def)             Requested size: 1066.98366pt x 1160.33217pt.
 \gtr@pbox=\box115
 \gtr@pbox=\box116
 \gtr@pbox=\box117
@@ -694,24 +752,27 @@ Package pdftex.def Info: ./images/kalyaniamma.jpeg  used on input line 99.
 
 
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./image
-s/topdog.jpeg> <./images/kalyaniamma.jpeg>] (./tree.aux) ) 
+s/topdog.jpeg> <./images/karunakaran2.jpg> <./images/kalyaniamma.jpg> <./images
+/achachan.jpg> <./images/achamma.jpg> <./images/balak.jpg> <./images/ammu.jpg> 
+<./images/kuttimama.jpg> <./images/kuttimayi.jpg> <./images/kvalliamma.jpg> <./
+images/manarivammama.jpg> <./images/manarivammayi.jpg>] (./tree.aux) ) 
 Here is how much of TeX's memory you used:
- 21128 strings out of 476025
- 482348 string characters out of 5790017
- 1952388 words of memory out of 5000000
- 41265 multiletter control sequences out of 15000+600000
+ 21211 strings out of 476025
+ 484442 string characters out of 5790017
+ 1968388 words of memory out of 5000000
+ 41337 multiletter control sequences out of 15000+600000
  517112 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  115i,9n,118p,478b,2117s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2
-023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/local/texlive/202
-3/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/20
-23/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2023/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmti7.pfb>
-Output written on tree.pdf (1 page, 216378 bytes).
+</usr/loc
+al/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/local
+/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/loca
+l/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/t
+exlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti7.pfb>
+Output written on tree.pdf (1 page, 4840364 bytes).
 PDF statistics:
- 33 PDF objects out of 1000 (max. 8388607)
+ 43 PDF objects out of 1000 (max. 8388607)
  19 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 23 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 73 words of extra memory for PDF output out of 10000 (max. 10000000)
 
