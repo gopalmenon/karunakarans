@@ -1,0 +1,122 @@
+\documentclass{article}
+\usepackage[a1paper]{geometry}
+\usepackage[all]{genealogytree}
+\usepackage{pdflscape}
+\thispagestyle{empty}
+\begin{document}
+\begin{landscape}
+\begin{genealogypicture} [
+processing=database,
+database format=medium marriage below,
+node size=2.4cm,
+level size=3.5cm,
+level distance=6mm,
+list separators hang,
+name font=\bfseries,
+surn code={\textcolor{red!50!black}{#1}},
+place text={\newline}{},
+date format=d/mon/yyyy,
+tcbset={male/.style={colframe=blue,colback=blue!5},
+female/.style={colframe=red,colback=red!5}},
+box={fit basedim=7pt,boxsep=2pt,segmentation style=solid,
+halign=left,before upper=\parskip1pt,
+\gtrDBsex,drop fuzzy shadow,
+if image defined={add to width=25mm,right=25mm,
+underlay={\begin{tcbclipinterior}\path[fill overzoom DBimage]
+([xshift=-24mm]interior.south east) rectangle (interior.north east);
+\end{tcbclipinterior}},
+}{},
+},
+]
+
+sandclock {
+	child {
+  		g [female]{name={\pref{V} Narayani \surn{Menon}}, image={./images/kvalliamma2.jpg}, comment={Kannanthara Valliamma}}
+   		p [male] {name={\pref{Vellar} Sankunny \surn{Menon}}, image={./images/sankunny.jpg}}
+		child {
+  			g[female]{name=Cherumanassery Ammu, comment={Teacher Velliamma}}
+   			p[male]{name={Tony \surn{Luiz}}}
+   			child {
+    				g [female] {name=Teresa Viju \surn{James}}
+    				p [male] {name=Winston \surn{James}}
+				c[female] {name={Supriya \surn{James}}}
+				c[female] {name={Mayura \surn{James}}}
+   			}
+  		}
+		c [female] {name={Cherumanassery Minakshi Amma}}
+		child {
+			g [male] {name={\pref{V} Govinda \surn{Menon}}}
+			p [female] {name={\pref{P} Ammu Amma}}
+			c [male] {name={\pref{P} Govindan \surn{Menon}}}
+			child {
+				g [male] {name={Govindan Sankunny}}
+				p [female] {name=Maya}
+				child {
+					g [male] {name ={Madhu Sankunny}}
+					p [female] {name={\pref{K} Ann}}
+				}
+			}
+			child {
+				g [female] {name={\pref{P} Thangam \surn{Menon}}}
+				p [male] {name={\pref{P} Vishwanath \surn{Menon}}, comment={Baby}}
+				child {
+					g [male] {name={Ashok \surn{Menon}}}
+				}
+				child {
+					g [female] {name={Suchitra \surn{Menon}}}
+					p [male] {name={\pref{N} Krishnakumar}}
+				}
+				c [male] {name={Anand \surn{Menon}}}
+			}
+			child {
+				g [male] {name={\pref{Col P} Madhavan}}
+				p [female] {name={Lata Madhavan \surn{Sebastian}}}
+				c [male] {name={Arun \surn{Menon}}}
+				c [female] {name={Anupama \surn{Menon}}}
+			}
+			child {
+				g [male] {name={\pref{P} Karunakaran}}
+				p [female] {name=Indira}
+				c [female] {name={Radhika Karunakaran}}
+				c [female] {name={Renuka Karunakaran}}
+			}
+			child {
+				g [female] {name={\pref{P} Janaki Rajendran}}
+				p [male] {name={Babu Rajendran}}
+				c [male] {name={Rajiv Rajendran}}
+				child {
+					g [female] {name={Rupa Rajendran}}
+					p [male] {name=Vinod}
+					c [female] {name={Kamala Vinod}}
+				}
+			}
+			child {
+				g [male] {name={\pref{P} Krishnankutty}}
+				p [female] {name=Meena}
+				child {
+					g [female] {name={Krishna Krishnankutty Sajiv}}
+					p [male] {name=Sajiv}
+				}
+			
+			}
+		}
+		child {
+			g [male] {name={\pref{Col} VK \surn{Menon}}}
+			p [female]{name={Kunji}}
+			child {
+				g [male] {name={\pref{Air Comm} KB \surn{Menon}}}
+			}
+			child {
+				g [male] {name={Gopi}}
+			}
+			child {
+				g [male] {name={Radhu}}
+			}
+		}
+	}
+}
+
+\end{genealogypicture}
+
+\end{landscape}
+\end{document}
