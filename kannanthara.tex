@@ -1,5 +1,5 @@
 \documentclass{article}
-\usepackage[a1paper]{geometry}
+\usepackage[a0paper]{geometry}
 \usepackage[all]{genealogytree}
 \usepackage{pdflscape}
 \thispagestyle{empty}
@@ -43,7 +43,10 @@ sandclock {
 				c[female] {name={Mayura \surn{James}}}
    			}
   		}
-		c [female] {name={Cherumanassery Minakshi Amma}}
+		child {
+			g [female] {name={Cherumanassery Minakshi Amma}}
+			c [male] {name ={\pref{Puthiyaveetil} Madhava \surn{Menon}}}
+		}
 		child {
 			g [male] {name={\pref{V} Govinda \surn{Menon}}}
 			p [female] {name={\pref{P} Ammu Amma}}
@@ -101,16 +104,45 @@ sandclock {
 			}
 		}
 		child {
-			g [male] {name={\pref{Col} VK \surn{Menon}}}
-			p [female]{name={Kunji}}
+			g [male] {name={\pref{Col} V Krishna \surn{Menon}}, comment={Appukuttan}}
+			p [female]{name={\pref{KP} Kunhilakshmi \surn{Menon}}, comment={Kunji}}
 			child {
-				g [male] {name={\pref{Air Comm} KB \surn{Menon}}}
+				g [male] {name={\pref{Air Cmde} KB \surn{Menon}}}
+				p [female] {name={\pref{V} Padmini \surn{Menon}}}
+				child {
+					g [female] {name={Purnima \surn{Menon}}}
+					p [male] {name={Jitendra Balakrishnan}, comment={Jeetu}}
+					c [female] {name={Ananya Balakrishnan}}
+				}
+				child {
+					g [male] {name={Govind \surn{Menon}}}
+					p [female] {name={Anjali Sridhar}}
+					c [female] {name={Gayatri \surn{Menon}}}
+					c [male] {name={Kedar \surn{Menon}}}
+				}
 			}
 			child {
-				g [male] {name={Gopi}}
+				g [female] {name={Radha \surn{Chibber}}}
+				p [male] {name={\pref{Kurunthotathil} Cherian \surn{Phillipose}}}
+				c [male] {name={Ranjit \surn{Phillipose}}}
+				child {
+					g[female] {name={Rohini \surn{Phillipose}}}
+					p [male] {name=Musa}
+				}
 			}
 			child {
-				g [male] {name={Radhu}}
+				g [male] {name={\pref{K} Govind \surn{Menon}}}
+				p[female] {name={Anjana Sunderesan}, comment={Anju}}
+				child {
+					g [male] {name={Balakrishnan \surn{Menon}}, comment={Kuttan}}
+					p [female] {name={Disha \surn{Mehta}}}
+					c [female] {name={Ashwati \surn{Menon}}}
+				}
+				child {
+					g [male] {name={Shankar \surn{Menon}}, comment={Unni}}
+					p [female] {name={Komal \surn{Aggarwal}}}
+					c [male] {name={Kushank \surn{Menon}}}
+				}
 			}
 		}
 	}
