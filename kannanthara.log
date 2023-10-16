@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.9)  15 OCT 2023 10:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.9)  15 OCT 2023 18:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -648,24 +648,66 @@ e
 <./images/kvalliamma2.jpg, id=4, 961.5925pt x 1064.97874pt>
 File: ./images/kvalliamma2.jpg Graphic file (type jpg)
 <use ./images/kvalliamma2.jpg>
-Package pdftex.def Info: ./images/kvalliamma2.jpg  used on input line 151.
+Package pdftex.def Info: ./images/kvalliamma2.jpg  used on input line 152.
 (pdftex.def)             Requested size: 961.59015pt x 1064.97615pt.
 \gtr@pbox=\box93
 <./images/sankunny.jpg, id=5, 725.71124pt x 932.48375pt>
 File: ./images/sankunny.jpg Graphic file (type jpg)
 <use ./images/sankunny.jpg>
-Package pdftex.def Info: ./images/sankunny.jpg  used on input line 151.
+Package pdftex.def Info: ./images/sankunny.jpg  used on input line 152.
 (pdftex.def)             Requested size: 725.70947pt x 932.48148pt.
 \gtr@pbox=\box94
+<./images/kannanthara/meenakshi.jpg, id=6, 1174.3875pt x 1072.005pt>
+File: ./images/kannanthara/meenakshi.jpg Graphic file (type jpg)
+<use ./images/kannanthara/meenakshi.jpg>
+Package pdftex.def Info: ./images/kannanthara/meenakshi.jpg  used on input line
+ 152.
+(pdftex.def)             Requested size: 1174.38464pt x 1072.0024pt.
 \gtr@pbox=\box95
+<./images/kannanthara/pmadhavamenon.jpg, id=7, 1147.28625pt x 1186.4325pt>
+File: ./images/kannanthara/pmadhavamenon.jpg Graphic file (type jpg)
+<use ./images/kannanthara/pmadhavamenon.jpg>
+Package pdftex.def Info: ./images/kannanthara/pmadhavamenon.jpg  used on input 
+line 152.
+(pdftex.def)             Requested size: 1147.28345pt x 1186.42961pt.
 \gtr@pbox=\box96
+<./images/kannanthara/teacher.jpg, id=8, 1174.3875pt x 1237.62375pt>
+File: ./images/kannanthara/teacher.jpg Graphic file (type jpg)
+<use ./images/kannanthara/teacher.jpg>
+Package pdftex.def Info: ./images/kannanthara/teacher.jpg  used on input line 1
+52.
+(pdftex.def)             Requested size: 1174.38464pt x 1237.62074pt.
 \gtr@pbox=\box97
 \gtr@pbox=\box98
+<./images/kannanthara/viju.jpg, id=9, 1174.3875pt x 1411.2725pt>
+File: ./images/kannanthara/viju.jpg Graphic file (type jpg)
+<use ./images/kannanthara/viju.jpg>
+Package pdftex.def Info: ./images/kannanthara/viju.jpg  used on input line 152.
+
+(pdftex.def)             Requested size: 1174.38464pt x 1411.26907pt.
 \gtr@pbox=\box99
+<./images/kannanthara/winston.jpg, id=10, 1174.3875pt x 1511.6475pt>
+File: ./images/kannanthara/winston.jpg Graphic file (type jpg)
+<use ./images/kannanthara/winston.jpg>
+Package pdftex.def Info: ./images/kannanthara/winston.jpg  used on input line 1
+52.
+(pdftex.def)             Requested size: 1174.38464pt x 1511.64383pt.
 \gtr@pbox=\box100
 \gtr@pbox=\box101
 \gtr@pbox=\box102
+<./images/kannanthara/vgovindamenon.jpg, id=11, 1174.3875pt x 1365.1pt>
+File: ./images/kannanthara/vgovindamenon.jpg Graphic file (type jpg)
+<use ./images/kannanthara/vgovindamenon.jpg>
+Package pdftex.def Info: ./images/kannanthara/vgovindamenon.jpg  used on input 
+line 152.
+(pdftex.def)             Requested size: 1174.38464pt x 1365.09668pt.
 \gtr@pbox=\box103
+<./images/kannanthara/pammuamma.jpg, id=12, 1092.08pt x 1337.99875pt>
+File: ./images/kannanthara/pammuamma.jpg Graphic file (type jpg)
+<use ./images/kannanthara/pammuamma.jpg>
+Package pdftex.def Info: ./images/kannanthara/pammuamma.jpg  used on input line
+ 152.
+(pdftex.def)             Requested size: 1092.07735pt x 1337.9955pt.
 \gtr@pbox=\box104
 \gtr@pbox=\box105
 \gtr@pbox=\box106
@@ -696,7 +738,19 @@ Package pdftex.def Info: ./images/sankunny.jpg  used on input line 151.
 \gtr@pbox=\box131
 \gtr@pbox=\box132
 \gtr@pbox=\box133
+<./images/kannanthara/appukuttan.jpg, id=13, 1157.32375pt x 1212.53pt>
+File: ./images/kannanthara/appukuttan.jpg Graphic file (type jpg)
+<use ./images/kannanthara/appukuttan.jpg>
+Package pdftex.def Info: ./images/kannanthara/appukuttan.jpg  used on input lin
+e 152.
+(pdftex.def)             Requested size: 1157.32092pt x 1212.52705pt.
 \gtr@pbox=\box134
+<./images/kannanthara/kunji.jpg, id=14, 1174.3875pt x 1199.48125pt>
+File: ./images/kannanthara/kunji.jpg Graphic file (type jpg)
+<use ./images/kannanthara/kunji.jpg>
+Package pdftex.def Info: ./images/kannanthara/kunji.jpg  used on input line 152
+.
+(pdftex.def)             Requested size: 1174.38464pt x 1199.47833pt.
 \gtr@pbox=\box135
 \gtr@pbox=\box136
 \gtr@pbox=\box137
@@ -719,29 +773,38 @@ Package pdftex.def Info: ./images/sankunny.jpg  used on input line 151.
 \gtr@pbox=\box154
 \gtr@pbox=\box155
 \gtr@pbox=\box156
+\gtr@pbox=\box157
+
+Overfull \hbox (302.2348pt too wide) in paragraph at lines 152--153
+[][] 
+ []
 
 [1
 
 
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./image
-s/kvalliamma2.jpg> <./images/sankunny.jpg>] (./kannanthara.aux) ) 
+s/kvalliamma2.jpg> <./images/sankunny.jpg> <./images/kannanthara/meenakshi.jpg>
+ <./images/kannanthara/pmadhavamenon.jpg> <./images/kannanthara/teacher.jpg> <.
+/images/kannanthara/viju.jpg> <./images/kannanthara/winston.jpg> <./images/kann
+anthara/vgovindamenon.jpg> <./images/kannanthara/pammuamma.jpg> <./images/kanna
+nthara/appukuttan.jpg> <./images/kannanthara/kunji.jpg>] (./kannanthara.aux) ) 
 Here is how much of TeX's memory you used:
- 22003 strings out of 476025
- 496030 string characters out of 5790017
- 2038388 words of memory out of 5000000
- 42140 multiletter control sequences out of 15000+600000
+ 22113 strings out of 476025
+ 499079 string characters out of 5790017
+ 2058388 words of memory out of 5000000
+ 42240 multiletter control sequences out of 15000+600000
  517112 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 115i,9n,118p,485b,2700s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/te
-xlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/local/texl
-ive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/tex
-live/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texliv
-e/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti7.pfb>
-Output written on kannanthara.pdf (1 page, 563431 bytes).
+ 115i,9n,118p,485b,2716s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<
+/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></u
+sr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></
+usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr
+/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti7.pfb>
+Output written on kannanthara.pdf (1 page, 6013983 bytes).
 PDF statistics:
- 33 PDF objects out of 1000 (max. 8388607)
+ 42 PDF objects out of 1000 (max. 8388607)
  19 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 23 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 68 words of extra memory for PDF output out of 10000 (max. 10000000)
 
